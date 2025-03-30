@@ -1,1 +1,1 @@
-# nw_loadingupdate
+NewWay Roleplay (https://newwayhungary.com) loading screen update
